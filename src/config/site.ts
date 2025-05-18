@@ -9,14 +9,6 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
       label: "Blog",
       href: "/blog",
     },
@@ -60,7 +52,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://https://github.com/MiladMP8118.com/frontio-ai/heroui",
+    github: "https://github.com/MiladMP8118",
     twitter: "",
     docs: "",
     discord: "",
