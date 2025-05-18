@@ -17,11 +17,8 @@ export default function IndexPage() {
           <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
           <br />
           <span className={title()}>
-            websites regardless of your design experience.
+            websites
           </span>
-          <div className={subtitle({ class: "mt-4" })}>
-            Beautiful, fast and modern React UI library.
-          </div>
         </div>
 
         <div className="flex gap-3">
